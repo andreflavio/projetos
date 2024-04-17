@@ -1,0 +1,54 @@
+.menu {
+    display: flex;
+    width: 99vw;
+    height: 80vh;
+}
+
+.meio {
+    display: block;
+}
+
+.navbar {
+    background-color: rgba(87, 73, 73, 0.51);
+    height: 95.5vh;
+    width: 30vw;
+    padding-left: 8vw;
+    margin: 0.6vh;
+    margin-bottom: 0;
+    border-radius: 1vw;
+}
+
+.home {
+    background-color: rgba(87, 73, 73, 1);
+    width: 67.5vw;
+    margin: 0.5vh;
+    margin-bottom: 0;
+    height: 8vh;
+    border-radius: 1vw;
+}
+
+.corpo {
+    background-color: #d9d9d9;
+    width: 67.5vw;
+    margin: 0.5vh;
+    margin-bottom: 0;
+    height: 30vh;
+    border-radius: 1vw;
+}
+
+.corpo1 {
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #d9d9d9;
+    width: 16.4vw;
+    margin: 0.5vh;
+    margin-top: 2.3vh;
+    margin-right: 0.4vw;
+    height: 16.4vh;
+    border-radius: 1vw;
+}
