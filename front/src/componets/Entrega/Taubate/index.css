@@ -1,0 +1,130 @@
+.menu {
+    display: flex;
+    width: 99vw;
+    height: 80vh;
+}
+
+.meio {
+    display: block;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(87, 73, 73, 0.51);
+    height: 95.5vh;
+    width: 30vw;
+    margin: 0.6vh;
+    margin-left: 0.5vw;
+    margin-bottom: 0;
+    border-radius: 1vw;
+}
+
+.home {
+    background-color: rgba(87, 73, 73, 1);
+    width: 67.5vw;
+    margin: 0.5vh;
+    margin-bottom: 0;
+    height: 8vh;
+    border-radius: 1vw;
+}
+
+.corpo {
+    background-color: #d9d9d9;
+    color: #070707;
+    width: 67.5vw;
+    margin: 0.5vh;
+    margin-bottom: 0;
+    height: 30vh;
+    border-radius: 1vw;
+}
+.corpo:hover {
+    background-color:rgb(214, 91, 10);
+}
+
+.corpo1 {
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #d9d9d9;
+    color:#070707;
+    width: 16.4vw;
+    margin: 0.5vh;
+    margin-top: 2.3vh;
+    margin-right: 0.4vw;
+    height: 16.4vh;
+    border-radius: 1vw;
+}
+.botao:hover{
+    background-color:rgb(214, 91, 10);  
+}
+*{
+    text-decoration: none;
+}
+.menu {
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    background-color: #333; /* Cor do logo */
+    border-radius: 0.8vw;
+    border: 2px solid #333;
+}
+.logo-div{
+    display: flex;
+}
+.logo1 {
+    width: 30px;
+    height: 30px;
+    background-color: #333; /* Cor do logo */
+    border-radius: 2vw;
+    border: 2px solid #333;
+}
+
+.border-bottom {
+    width: 100%;
+    border-bottom: 1px solid #070707; /* Cor da linha divisória */
+}
+
+.cargo-status {
+     display: flex;
+     
+}
+
+.cargo {
+    font-weight: bold;
+}
+
+.opcao {
+    margin-right: 20px; /* Espaçamento entre as opções */
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: black; /* Cor padrão do texto */
+    transition: color 0.3s ease; /* Transição suave para a cor do texto */
+}
+
+.status_{
+    display: flex;
+    flex-direction: column;
+}
+.navegar{
+    display: flex;
+    flex-direction: column;
+}
+.fav-botao{
+    width: 20px;
+    height: 20px;
+}
+
