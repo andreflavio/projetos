@@ -1,8 +1,9 @@
 import React, { useState, ChangeEvent, FormEvent } from 'react';
 import './index.css';
 import Credentials from '../../types';
+import { Link } from 'react-router-dom';
 
-const App: React.FC = () => {
+const Login: React.FC = () => {
   const [credentials, setCredentials] = useState<Credentials>({ username: '', password: '' });
 
   const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
@@ -47,4 +48,4 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+export default Login;

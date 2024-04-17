@@ -1,10 +1,11 @@
+import { Link } from 'react-router-dom';
 import './index.css';
 
 /**
  * Componente para o formulário de cadastro de colaborador.
  * @returns {JSX.Element} O componente JSX do formulário de cadastro.
  */
-export default function Cadastro() {
+export default function Cadastro(): JSX.Element {
   // Lista de cargos disponíveis
   const cargos = ['Gestor', 'Editor', 'Revisor'];
 
@@ -58,7 +59,7 @@ export default function Cadastro() {
         </div>
 
         {/* Botão de envio do formulário */}
-        <button type="submit" className="btn btn-primary">Cadastrar</button>
+        <Link to="/"><button type="submit" className="btn btn-primary">Cadastrar</button></Link>
       </form>
     </div>
   );
