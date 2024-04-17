@@ -41,7 +41,7 @@ const Login: React.FC = () => {
               onChange={handleChange}
             />
           </div>
-          <button type="submit">ENTRAR</button>
+          <Link to="/Acesso"><button type="submit">ENTRAR</button></Link>
         </form>
       </div>
     </div>

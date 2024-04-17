@@ -59,7 +59,7 @@ export default function Cadastro(): JSX.Element {
         </div>
 
         {/* Botão de envio do formulário */}
-        <Link to="/"><button type="submit" className="btn btn-primary">Cadastrar</button></Link>
+        <Link to="/Acesso"><button type="submit" className="btn btn-primary">Cadastrar</button></Link>
       </form>
     </div>
   );
