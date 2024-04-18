@@ -2,7 +2,6 @@
 .input-group:first-of-type {
   margin-top: 9rem; /* Ajuste este valor para alterar o espaço */
 }
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -18,16 +17,14 @@ code {
 }
 
 .App {
-  background-color: #EC6A16;
+  min-height: 100vh; /* Garante que a altura do contêiner seja no mínimo igual à altura da viewport */
+  background-color: #EC6A16; /* Define a cor de fundo */
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  font-family: 'Jura', sans-serif;
 }
 
 .login-container {
-  justify-content: center;
   background-color: white;
   padding: 1rem 2rem; /* Ajuste o segundo valor para alterar o padding à direita e à esquerda */
   border-radius: 20px;
@@ -35,7 +32,6 @@ code {
   width: 410px;
   height: 558px;
 }
-
 
 .login-container h1 {
   color: #EC6A16;
@@ -53,7 +49,6 @@ code {
   color: #EC6A16;
   font-size: 25px;
   font-weight: bold;
-  
 }
 
 input {
@@ -64,23 +59,12 @@ input {
   border-radius: 4px;
   border: 1px solid #ccc;
   background-color: #f2f2f2;
-  
 }
 
-button {
-  width: 98px;
-  height: 30px;
-  padding: rem;
-  border: none;
-  border-radius: 4px;
-  background-color: #f2f2f2;
-  color: black;
-  cursor: pointer;
-  margin-top: 3rem;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+#button {
+  margin-right: 5rem;
 }
-*{
+
+* {
   text-decoration: none;
 }
