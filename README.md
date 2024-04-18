@@ -82,6 +82,15 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
   
 
 ## :dart: Product Backlog
+
+<div align="center" width="90%">
+
+
+<img src = "./docs/backlog1.png" alt="product backlog"/>
+<img src = "./docs/backlog1.2.png" alt="product backlog"/>
+
+
+</div>
   
 
 <br>
