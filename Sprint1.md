@@ -144,13 +144,15 @@ Apresentação para o cliente (Sprint Review)
 ## :rice_scene: Wireframe
 
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/1pagina_inicial.png">
+      <img src="./docs/visao_login.png">
       <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/2carrossel_imagens.png">
+      <img src="./docs/visao_gestor.png">
       <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/3area_texto.png">
+      <img src="./docs/visao_editor.png">
       <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/4area_texto2.png">
+      <img src="./docs/visao_revisor.png">
+      <br>
+      <img src="./docs/visao_cadastro.png">
 </div>
 
 → [Voltar ao topo](#topo)
@@ -159,10 +161,10 @@ Apresentação para o cliente (Sprint Review)
 
 <span  id="kanban">
 
-##  :bar_chart: KanBan
+##  :bar_chart: Trello
 
 <div align="center">
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/kanban_sprint01.jpeg">
+      <img src="./docs/Trello1.png">
       <br>
 </div>
 
