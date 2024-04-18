@@ -13,36 +13,36 @@ export default function Cadastro(): JSX.Element {
     <div className="App">
       {/* Formulário de cadastro */}
       <form className="user-form">
-        <h2>Cadastre um Colaborador</h2>
+        <h2 className="mb-3">Cadastre um Colaborador</h2> {/* Adicionado classe do Bootstrap para margem inferior */}
 
         {/* Campo de entrada para o nome */}
-        <div className="input-group">
-          <label htmlFor="nome">Nome:</label>
-          <input type="text" id="nome" placeholder="Digite o nome" />
+        <div className="input-group mb-3"> {/* Adicionado classe do Bootstrap para margem inferior */}
+          <label htmlFor="nome" className="form-label">Nome:</label> {/* Adicionado classe do Bootstrap para rótulos de formulário */}
+          <input type="text" id="nome" placeholder="Digite o nome" className="form-control"/> {/* Adicionado classe do Bootstrap para campos de formulário */}
         </div>
 
         {/* Campo de entrada para o e-mail */}
-        <div className="input-group">
-          <label htmlFor="email">E-mail:</label>
-          <input type="email" id="email" placeholder="Digite o e-mail" />
+        <div className="input-group mb-3">
+          <label htmlFor="email" className="form-label">E-mail:</label>
+          <input type="email" id="email" placeholder="Digite o e-mail" className="form-control"/>
         </div>
 
         {/* Campo de entrada para o CPF */}
-        <div className="input-group">
-          <label htmlFor="cpf">CPF:</label>
-          <input type="text" id="cpf" placeholder="Digite o CPF" />
+        <div className="input-group mb-3">
+          <label htmlFor="cpf" className="form-label">CPF:</label>
+          <input type="text" id="cpf" placeholder="Digite o CPF" className="form-control"/>
         </div>
 
         {/* Campo de entrada para a matrícula */}
-        <div className="input-group">
-          <label htmlFor="matricula">Matrícula:</label>
-          <input type="text" id="matricula" placeholder="Digite a matrícula" />
+        <div className="input-group mb-3">
+          <label htmlFor="matricula" className="form-label">Matrícula:</label>
+          <input type="text" id="matricula" placeholder="Digite a matrícula" className="form-control"/>
         </div>
 
         {/* Campo de seleção para o cargo */}
-        <div className="input-group">
-          <label htmlFor="cargo">Cargo:</label>
-          <select id="cargo">
+        <div className="input-group mb-3">
+          <label htmlFor="cargo" className="form-label">Cargo:</label>
+          <select id="cargo" className="form-control">
             {/* Mapeia os cargos disponíveis em opções */}
             {cargos.map((cargo) => (
               <option key={cargo} value={cargo}>
@@ -53,13 +53,13 @@ export default function Cadastro(): JSX.Element {
         </div>
 
         {/* Campo de entrada para a senha */}
-        <div className="input-group">
-          <label htmlFor="senha">Senha:</label>
-          <input type="password" id="senha" placeholder="Digite a senha" />
+        <div className="input-group mb-3">
+          <label htmlFor="senha" className="form-label">Senha:</label>
+          <input type="password" id="senha" placeholder="Digite a senha" className="form-control"/>
         </div>
 
         {/* Botão de envio do formulário */}
-        <Link to="/Acesso"><button type="submit" className="btn btn-primary">Cadastrar</button></Link>
+        <Link to="/Acesso"><button type="submit" className="btn btn-primary mt-3">Cadastrar</button></Link> {/* Adicionado classe do Bootstrap para margem superior */}
       </form>
     </div>
   );
