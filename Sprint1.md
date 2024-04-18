@@ -1,4 +1,4 @@
-<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/InnoCodeSolutions-banner.png" />
+<img src="./docs/Analystics.png" />
 
 <span  id="topo">
 
@@ -24,7 +24,7 @@
 <div align="center">
 <br>
   
-:movie_camera: Vídeo sobre a 1ª sprint <a href="">***aqui***</a>  
+:movie_camera: Vídeo sobre a 1ª sprint <a href="https://www.youtube.com/watch?v=Flqi3ski07M">***aqui***</a>  
 
 <br>
 </div>
