@@ -24,12 +24,13 @@
 <div align="center">
 <br>
   
-:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
+:movie_camera: Vídeo sobre a 1ª sprint <a href="">***aqui***</a>  
 
 <br>
 </div>
 
-<p>Para início do desenvolvimento de um site para ** plataforma educacional sobre o Scrum **, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
+<p>Para início do desenvolvimento de software web para ** gerenciamento de projetos ** relacionados a área de Geoprocessamento, nossa equipe concentrou seus esforços na criação do front-end, criando uma função que será utilizada pelo cliente no final da entrega, a consulta
+do andamento de sua equipe, podendo ser consultada pelo gestor da equipe.</p>
 
 <br>  
 
@@ -131,7 +132,8 @@ Apresentação para o cliente (Sprint Review)
 ## :clipboard: Sprint Backlog 1
 <p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
-      <img src="sprint01_backlog.png">
+      <img src="./docs/sprint_backlog1.png">
+      <img src="./docs/sprint_backlog1.2.png">
       <br>
 </div>
 
@@ -180,12 +182,9 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
-<p>
-  → Para ter acesso a planilha com os dados e gráfico <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/gustavo_carvalho21_fatec_sp_gov_br/EYHhekfCCWVGjcrbAh9dUcMBErhKBofVpfHzoNdkV9C2jg?e=kDRqlZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0">clique aqui!</a>
-</p>
 
 <div  align="center">
-<img  src="burndown_sprint01.png"  />
+<img  src=""  />
 </div>
 
 

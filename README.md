@@ -91,11 +91,29 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 
 </div>
+
+
+
+→ [Voltar ao topo](#topo)
   
 
 <br>
 
 <br>
+
+<span  id="user_stories">
+
+## :scroll: User Stories
+
+<div align="center">
+<img src="./docs/user_stories1.png" alt="user_stories">
+</div>
+
+→ [Voltar ao topo](#topo)
+
+<br>
+
+<br> 
 
 <span  id="tecnologias">
 
