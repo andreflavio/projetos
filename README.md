@@ -58,7 +58,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 18/04/2024 | ⏳️ Em andamento |
+| 01 | 18/04/2024 | ✅ Concluído |[Relatório](Sprint1.md)
 | 02 | 16/05/2024 | ❌ Não iniciada |
 | 03 | 13/06/2024 | ❌ Não iniciada |
 
@@ -107,6 +107,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 <div align="center">
 <img src="./docs/user_stories1.png" alt="user_stories">
+<img src="./docs/user_stories1.2.png" alt="user_stories">
 </div>
 
 → [Voltar ao topo](#topo)

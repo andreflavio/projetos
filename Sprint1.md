@@ -29,7 +29,7 @@
 <br>
 </div>
 
-<p>Para início do desenvolvimento de software web para ** gerenciamento de projetos ** relacionados a área de Geoprocessamento, nossa equipe concentrou seus esforços na criação do front-end, criando uma função que será utilizada pelo cliente no final da entrega, a consulta
+<p>Para início do desenvolvimento de software web para **gerenciamento de projetos** relacionados a área de Geoprocessamento, nossa equipe concentrou seus esforços na criação do front-end, criando uma função que será utilizada pelo cliente no final da entrega, a consulta
 do andamento de sua equipe, podendo ser consultada pelo gestor da equipe.</p>
 
 <br>  
@@ -130,10 +130,9 @@ Apresentação para o cliente (Sprint Review)
 <span  id="sprint_backlog">
 
 ## :clipboard: Sprint Backlog 1
-<p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
+<p>A Sprint Planning foi realizada no dia 26/03/2024, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
       <img src="./docs/sprint_backlog1.png">
-      <img src="./docs/sprint_backlog1.2.png">
       <br>
 </div>
 
@@ -184,7 +183,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 
 <div  align="center">
-<img  src=""  />
+<img  src="./docs/burndown_sprint1.jpeg"  />
 </div>
 
 
@@ -204,7 +203,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 - ### O que pode melhorar?
   - A equipe teve dificuldades para a utilização do GitHub, procuraremos buscar mais conhecimento sobre a ferramenta;
   - Dificuldades em realizar as daily's; 
-  - Não realizamos a documentação do User Stories.
+  - Tempo de conclusão das atividades.
 
 
 → [Voltar ao topo](#topo)
