@@ -9,6 +9,7 @@
   align-items: center;
   height: 100%; /* Fixed height */
   
+  
 }
 
 .user-form {
@@ -70,35 +71,19 @@ select {
   }
   
   button {
-<<<<<<< HEAD
     width: 9.375rem;
     height: 2.5rem;
     padding: 0.05rem;
-=======
-    width: 150px;
-    height: 40px;
-    padding: 0.5rem;
->>>>>>> 4b5aab085629b05bcdaa968b355e3f42ae220ddd
     border: none;
     border-radius: 0.25rem;
     background-color: #EC6A16; /* Cor do botão #EC6A16 */
     color: white;
     cursor: pointer;
-<<<<<<< HEAD
     margin-top: 1.25rem;
     font-size: 1.125rem;
-=======
-    font-size: 18px;
->>>>>>> 4b5aab085629b05bcdaa968b355e3f42ae220ddd
     transition: background-color 0.3s ease;
   }
   
   button:hover {
     background-color: #218838;
   }
-<<<<<<< HEAD
-=======
-  h2{
-
-  }
->>>>>>> 4b5aab085629b05bcdaa968b355e3f42ae220ddd
