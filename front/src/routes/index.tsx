@@ -6,6 +6,7 @@ import Taubate from "../componets/Entrega/Taubate";
 import Cruzeiro from "../componets/Entrega/Cruzeiro";
 import Atibaia from "../componets/Entrega/Atibaia";
 
+
 export default function AppRoutes(){
     return(
      <BrowserRouter>
@@ -19,4 +20,6 @@ export default function AppRoutes(){
         </Routes>
      </BrowserRouter>
     );
+    
 }
+export {};

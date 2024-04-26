@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2018", // Atualizado para uma versão mais recente do ECMAScript
     "lib": [
       "dom",
       "dom.iterable",
